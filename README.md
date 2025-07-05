@@ -15,6 +15,7 @@ A modern web application that generates creative stories using AI. Built with Fl
 - Real-time Loading: Visual feedback during story generation
 - Secure API Management: Environment variables for API key protection
 
+
 ## Project Structure
 
 story-generator/
@@ -26,6 +27,7 @@ story-generator/
 ├── my_templates/         # HTML templates
 │   └── index.html        # Main web interface
 └── venv/                 # Virtual environment (not tracked)
+(https://github.com/user-attachments/assets/3eeb75db-9a5b-4388-90c1-37ba9e8fced5)
 
 ## Installation & Setup
 
