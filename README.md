@@ -27,6 +27,10 @@ story-generator/
 ├── my_templates/         # HTML templates
 │   └── index.html        # Main web interface
 └── venv/                 # Virtual environment (not tracked)
+
+
+### Screenshot of the app in action
+
 (https://github.com/user-attachments/assets/3eeb75db-9a5b-4388-90c1-37ba9e8fced5)
 
 ## Installation & Setup
